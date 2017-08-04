@@ -1,5 +1,6 @@
 # Description
 The groovy script can be used to read each line from the CSV file. The sample input file consist of "KeyId", "City" and "Country" and the end user will specify the KeyId in the request url as shown in https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_4.PNG . 
+![alt text][Screenshot4]
 
 The policy script filter can then check if the user entered value exists in the input CSV file. If the value exists then it will show the complete line with KeyId,City and Country.
 
@@ -46,4 +47,6 @@ Please read [Contributing.md] (https://github.com/Axway-API-Management/Common/bl
 
 
 ## License
-Apache License 2.0 (refer to document [license] (/LICENSE))
+Apache License 2.0 (refer to document [license] (https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/README.md)
+
+[Screenshot4] https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_4.PNG "Screenshot4"
