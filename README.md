@@ -50,4 +50,4 @@ Please read [Contributing.md] (https://github.com/Axway-API-Management/Common/bl
 ## License
 Apache License 2.0 (refer to document [license] (https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/README.md)
 
-[Screenshot4] https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_4.PNG "URL with Request parameter"
+[Screenshot4]:https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_4.PNG "URL with Request parameter"
