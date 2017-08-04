@@ -1,8 +1,8 @@
 # Description
-The groovy script can be used to read each line from the CSV file. The sample input file consist of "KeyId", "City" and "Country" and the end user will specify the KeyId in the request url as shown in https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_4.PNG "Screenshot4". 
+The groovy script can be used to read each line from the CSV file. The sample input file consist of "KeyId", "City" and "Country" and the end user will specify the KeyId in the request url as shown in https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_4.PNG . 
 
 The policy script filter can then check if the user entered value exists in the input CSV file. If the value exists then it will show the complete line with KeyId,City and Country.
-If the file is not found then it will copy the error trace into API Gateway attribute and show it in the browser. 
+If the file is not found then it will copy the error trace into API Gateway attribute and show it in the browser as shown in https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_5.PNG
 
 
 ## API Management Version Compatibilty
@@ -21,9 +21,10 @@ Sample Policy to check CSV file for user entered value
 ## Usage
 
 Copy the input.csv in your local drive
-[input.csv]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/input.csv "input.csv" 
+[input.csv]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/input.csv
+
 Also, change the file path in the src code as shown
-[changefilepath]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/changepath.png "changepath.png" 
+[changefilepath]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/changepath.png 
   
 
 ## Bug and Caveats
