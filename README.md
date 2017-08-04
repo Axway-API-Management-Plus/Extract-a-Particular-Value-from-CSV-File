@@ -41,7 +41,7 @@ Nothing identified yet
 
 ## Contributing
 
-Please read [Contributing.md] (https://github.com/Axway-API-Management/Common/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [Contributing.md](https://github.com/Axway-API-Management-Plus/Common/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Team
 
@@ -51,7 +51,7 @@ Please read [Contributing.md] (https://github.com/Axway-API-Management/Common/bl
 
 
 ## License
-Apache License 2.0 (refer to document [license] (https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/LICENSE)
+[Apache License 2.0](/LICENSE)
 
 [inputCSV]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/inputCSV.PNG "Input CSV"
 
