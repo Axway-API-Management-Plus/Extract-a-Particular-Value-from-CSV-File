@@ -16,7 +16,7 @@ This artefact was successfully tested for the following versions:
 Sample Policy to check CSV file for user entered value
 [Screenshot1]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_1.PNG
 
-[Screenshot2]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_2.PNG 
+[Screenshot2]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_2.PNG
 
 [Screenshot3]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_3.PNG
 
