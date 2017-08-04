@@ -1,5 +1,6 @@
 # Description
 The groovy script can be used to read each line from the CSV file. The sample input file consist of "KeyId", "City" and "Country" and the end user will specify the KeyId in the request url as shown below
+
 ![alt text][Screenshot4]
 
 The policy script filter can then check if the user entered value exists in the input CSV file. If the value exists then it will show the complete line with KeyId,City and Country.
