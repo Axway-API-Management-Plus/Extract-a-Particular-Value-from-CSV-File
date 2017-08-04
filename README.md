@@ -1,12 +1,16 @@
 # Description
-The groovy script can be used to read each line from the CSV file. The sample input file consist of "KeyId", "City" and "Country" and the end user will specify the KeyId in the request url as shown below
+The sample input file consist of "KeyId", "City" and "Country"
 
+![alt text][inputCSV]
+
+End user will specify the KeyId in the request url as shown below
 ![alt text][Screenshot4]
 
 The policy script filter can then check if the user entered value exists in the input CSV file. If the value exists then it will show the complete line with KeyId,City and Country.
 
-If the file is not found then it will copy the error trace into API Gateway attribute and show it in the browser as shown in https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_5.PNG
+If the file is not found then it will copy the error trace into API Gateway attribute and show it in the browser as shown below
 
+![alt text][Screenshot5]
 
 ## API Management Version Compatibilty
 This artefact was successfully tested for the following versions:
@@ -15,22 +19,21 @@ This artefact was successfully tested for the following versions:
 
 ## Install
 
-Sample Policy to check CSV file for user entered value
--[Screenshot1]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_1.PNG
+Sample policy
 
--[Screenshot2]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_2.PNG
+![alt text][Screenshot1]
 
--[Screenshot3]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_3.PNG
+![alt text][Screenshot2]
 
+![alt text][Screenshot3]
 
 ## Usage
 
 Copy the input.csv in your local drive
--[input.csv]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/input.csv
 
 Also, change the file path in the src code as shown
--[changepath]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/changepath.png 
-  
+
+![alt text][changepath]
 
 ## Bug and Caveats
 
@@ -48,6 +51,18 @@ Please read [Contributing.md] (https://github.com/Axway-API-Management/Common/bl
 
 
 ## License
-Apache License 2.0 (refer to document [license] (https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/README.md)
+Apache License 2.0 (refer to document [license] (https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/LICENSE)
 
-[Screenshot4]:https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_4.PNG "URL with Request parameter"
+[inputCSV]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/inputCSV.PNG "Input CSV"
+
+[Screenshot5]:https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_5.PNG "FileNotFound error"
+
+[Screenshot1]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_1.PNG
+
+[Screenshot2]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_2.PNG
+
+[Screenshot3]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_3.PNG
+
+[Screenshot4]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot4.PNG
+
+[changepath]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/changepath.png 
