@@ -2,6 +2,7 @@
 The groovy script can be used to read each line from the CSV file. The sample input file consist of "KeyId", "City" and "Country" and the end user will specify the KeyId in the request url as shown in https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_4.PNG . 
 
 The policy script filter can then check if the user entered value exists in the input CSV file. If the value exists then it will show the complete line with KeyId,City and Country.
+
 If the file is not found then it will copy the error trace into API Gateway attribute and show it in the browser as shown in https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_5.PNG
 
 
@@ -13,8 +14,10 @@ This artefact was successfully tested for the following versions:
 ## Install
 
 Sample Policy to check CSV file for user entered value
-[Screenshot1]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_1.PNG 
+[Screenshot1]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_1.PNG
+
 [Screenshot2]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_2.PNG 
+
 [Screenshot3]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_3.PNG
 
 
