@@ -14,20 +14,20 @@ This artefact was successfully tested for the following versions:
 ## Install
 
 Sample Policy to check CSV file for user entered value
-[Screenshot1]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_1.PNG
+-[Screenshot1]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_1.PNG
 
-[Screenshot2]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_2.PNG
+-[Screenshot2]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_2.PNG
 
-[Screenshot3]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_3.PNG
+-[Screenshot3]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/Screenshot_3.PNG
 
 
 ## Usage
 
 Copy the input.csv in your local drive
-[input.csv]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/input.csv
+-[input.csv]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/input.csv
 
 Also, change the file path in the src code as shown
-[changefilepath]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/changepath.png 
+-[changefilepath]: https://github.com/Axway-API-Management-Plus/Extract-a-Particular-Value-from-CSV-File/blob/master/Readme/changepath.png 
   
 
 ## Bug and Caveats
